@@ -8,4 +8,4 @@ A Infinity Beauty é uma clínica de estética que visa realçar a beleza dos cl
 atendimento, e uma equipe com vasta xperiência em gestão empresarial!
 
 - 👩🏼‍💻Sistema para uma clínica de estética
-- 
+- automatização da recpção
